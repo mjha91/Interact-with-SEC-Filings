@@ -102,3 +102,7 @@
 2018QTR2company.idx	https://www.sec.gov/Archives/edgar/full-index/2018/QTR2/company.idx
 2018QTR3company.idx	https://www.sec.gov/Archives/edgar/full-index/2018/QTR3/company.idx
 2018QTR4company.idx	https://www.sec.gov/Archives/edgar/full-index/2018/QTR4/company.idx
+2019QTR1company.idx	https://www.sec.gov/Archives/edgar/full-index/2019/QTR1/company.idx
+2019QTR2company.idx	https://www.sec.gov/Archives/edgar/full-index/2019/QTR2/company.idx
+2019QTR3company.idx	https://www.sec.gov/Archives/edgar/full-index/2019/QTR3/company.idx
+2019QTR4company.idx	https://www.sec.gov/Archives/edgar/full-index/2019/QTR4/company.idx
